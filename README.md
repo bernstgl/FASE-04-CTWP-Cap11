@@ -33,11 +33,10 @@ O projeto segue a metodologia **CRISP-DM** e é dividido nas seguintes etapas:
 3. **Otimização dos modelos para melhorar o desempenho.**
 4. **Interpretação dos resultados e extração de insights.**
 
-## 📁 Estrutura de pastas
+## 📁 Estrutura
 
-- **assets**: Contém imagens e arquivos auxiliares.
 - **notebooks**: Arquivos `.ipynb` com as implementações para cada tarefa.
-- **data**: Contém o conjunto de dados utilizado no projeto.
+- **Seeds.zip**: Contém o conjunto de dados utilizado no projeto.
 - **README.md**: Arquivo explicativo do projeto (o mesmo que você está lendo agora).
 
 ## 🔧 Como executar o código
